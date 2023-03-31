@@ -1,7 +1,8 @@
 # Node.js Application with Docker Compose and Jenkins
 
 This is a sample Node.js application that demonstrates how to use Docker Compose to deploy a Node.js application with PM2, and how to integrate the deployment process with Jenkins.
-Prerequisites
+
+## Prerequisites
 
     Docker
     Docker Compose
